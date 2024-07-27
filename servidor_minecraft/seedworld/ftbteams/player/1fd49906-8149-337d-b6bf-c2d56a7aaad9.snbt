@@ -1,0 +1,17 @@
+{
+	id: "1fd49906-8149-337d-b6bf-c2d56a7aaad9"
+	type: "player"
+	player_name: "LordKira98"
+	ranks: {
+		1fd49906-8149-337d-b6bf-c2d56a7aaad9: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "LordKira98"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFC459"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

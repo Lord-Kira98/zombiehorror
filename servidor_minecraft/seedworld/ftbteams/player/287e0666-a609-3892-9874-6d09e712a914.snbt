@@ -1,0 +1,17 @@
+{
+	id: "287e0666-a609-3892-9874-6d09e712a914"
+	type: "player"
+	player_name: "JHVLWL"
+	ranks: {
+		287e0666-a609-3892-9874-6d09e712a914: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "JHVLWL"
+		"ftbteams:description": ""
+		"ftbteams:color": "#98FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
